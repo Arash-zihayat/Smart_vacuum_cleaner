@@ -5,6 +5,13 @@ It demonstrates different components and functionalities of a robotic vacuum in 
 
 ---
 
+## 🎬 Demo
+
+![Smart Vacuum Demo](assets/demo.gif)
+
+
+---
+
 ## 🛠️ Features
 
 ### 🖥️ Control & Status Panel
