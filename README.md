@@ -7,7 +7,7 @@ It demonstrates different components and functionalities of a robotic vacuum in 
 
 ## 🎬 Demo
 
-![Smart Vacuum Demo](assets/demo.gif)
+![Smart Vacuum Demo](assets/Animation2.gif)
 
 
 ---
@@ -50,4 +50,4 @@ It demonstrates different components and functionalities of a robotic vacuum in 
 ### 🔹 Installation & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/َArash-zihayat/SmartVacuumCleaner.git
+   git clone https://github.com/Arash-zihayat/Smart_vacuum_cleaner
